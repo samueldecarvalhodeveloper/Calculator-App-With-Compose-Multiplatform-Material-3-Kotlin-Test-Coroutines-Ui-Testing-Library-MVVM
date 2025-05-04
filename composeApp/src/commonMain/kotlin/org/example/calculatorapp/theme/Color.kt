@@ -1,0 +1,61 @@
+package org.example.calculatorapp.theme
+
+import androidx.compose.ui.graphics.Color
+
+val NEUTRALS_000 = Color(0xFFFFFFFF)
+
+val NEUTRALS_100 = Color(0xFFEEF2F6)
+
+val NEUTRALS_200 = Color(0xFFCBCFD3)
+
+val NEUTRALS_300 = Color(0xFFB1B4B8)
+
+val NEUTRALS_400 = Color(0xFF868B8F)
+
+val NEUTRALS_500 = Color(0xFF737679)
+
+val NEUTRALS_600 = Color(0xFF505254)
+
+val NEUTRALS_700 = Color(0xFF414344)
+
+val NEUTRALS_800 = Color(0xFF2F3032)
+
+val NEUTRALS_900 = Color(0xFF101011)
+
+val NEUTRALS_1000 = Color(0xFF000000)
+
+val PRIMARY_100 = Color(0xFFE7F3FF)
+
+val PRIMARY_200 = Color(0xFFB2D8FF)
+
+val PRIMARY_300 = Color(0xFF8FC8FF)
+
+val PRIMARY_400 = Color(0xFF80C0FF)
+
+val PRIMARY_500 = Color(0xFF1E90FF)
+
+val PRIMARY_600 = Color(0xFF136FC8)
+
+val PRIMARY_700 = Color(0xFF115597)
+
+val PRIMARY_800 = Color(0xFF0B3965)
+
+val PRIMARY_900 = Color(0xFF072E54)
+
+val SECONDARY_100 = Color(0xFFFEF4CD)
+
+val SECONDARY_200 = Color(0xFFFDEEB5)
+
+val SECONDARY_300 = Color(0xFFFBE384)
+
+val SECONDARY_400 = Color(0xFFF9D753)
+
+val SECONDARY_500 = Color(0xFFFACC15)
+
+val SECONDARY_600 = Color(0xFFC19E10)
+
+val SECONDARY_700 = Color(0xFFB09010)
+
+val SECONDARY_800 = Color(0xFF937912)
+
+val SECONDARY_900 = Color(0xFF75600E)

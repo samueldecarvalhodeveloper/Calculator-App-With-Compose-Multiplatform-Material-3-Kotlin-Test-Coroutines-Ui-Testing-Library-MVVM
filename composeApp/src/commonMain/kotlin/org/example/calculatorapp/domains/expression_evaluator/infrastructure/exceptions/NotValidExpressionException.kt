@@ -1,0 +1,5 @@
+package org.example.calculatorapp.domains.expression_evaluator.infrastructure.exceptions
+
+import org.example.calculatorapp.constants.ExpressionEvaluatorConstants.NOT_VALID_EXPRESSION_EXCEPTION_MESSAGE
+
+class NotValidExpressionException : Exception(NOT_VALID_EXPRESSION_EXCEPTION_MESSAGE)
