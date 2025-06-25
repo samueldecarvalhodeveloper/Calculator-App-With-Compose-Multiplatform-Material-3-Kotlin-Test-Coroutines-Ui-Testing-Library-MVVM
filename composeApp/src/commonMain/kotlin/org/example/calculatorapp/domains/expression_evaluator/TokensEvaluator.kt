@@ -13,10 +13,10 @@ object TokensEvaluator {
             val secondOperand = stackOfOperands.removeLast()
             val firstOperand = stackOfOperands.removeLast()
 
-            val result =
+            val resultOfParsedExpressionArithmetic =
                 ArithmeticParser.parseExpressionArithmetic(firstOperand, operator, secondOperand)
 
-            stackOfOperands.add(result)
+            stackOfOperands.add(resultOfParsedExpressionArithmetic)
         }
     }
 }
